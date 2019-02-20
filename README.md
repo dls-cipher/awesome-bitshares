@@ -1,8 +1,8 @@
-# Awesome BitShares Blockchain [![Badges](https://img.shields.io/badge/badges-awesome-green.svg)](https://github.com/bitshares/awesome-bitshares)
+# Awesome BitShares Blockchain [![Badges](https://img.shields.io/badge/badges-awesome-green.svg)](https://github.com/xeroc/awesome-bitshares)
 
-[![GitHub forks](https://img.shields.io/github/forks/bitshares/awesome-bitshares.svg?style=social&label=Fork)](https://github.com/bitshares/awesome-bitshares)
-[![GitHub stars](https://img.shields.io/github/stars/bitshares/awesome-bitshares.svg?style=social&label=Star)](https://github.com/bitshares/awesome-bitshares)
-[![GitHub watchers](https://img.shields.io/github/watchers/bitshares/awesome-bitshares.svg?style=social&label=Watch)](https://github.com/bitshares/awesome-bitshares)
+[![GitHub forks](https://img.shields.io/github/forks/xeroc/awesome-bitshares.svg?style=social&label=Fork)](https://github.com/xeroc/awesome-bitshares)
+[![GitHub stars](https://img.shields.io/github/stars/xeroc/awesome-bitshares.svg?style=social&label=Star)](https://github.com/xeroc/awesome-bitshares)
+[![GitHub watchers](https://img.shields.io/github/watchers/xeroc/awesome-bitshares.svg?style=social&label=Watch)](https://github.com/xeroc/awesome-bitshares)
 
 ![](https://bitshares.org/assets/img/logo.svg)
 
@@ -52,7 +52,7 @@ Want to contribute to the list? Read the [contributors guide](CONTRIBUTING.md)!
 
 ### Official Resources
 
-* [BitShares Blockchain Foundation](http://bitshares.foundation)
+* [BitShares Blockchain Foundation](https://bitshares.foundation)
 * [BitShares Blockchain Project Homepage](http://bitshares.foundation)
 
 ### Documentation
@@ -62,8 +62,9 @@ Want to contribute to the list? Read the [contributors guide](CONTRIBUTING.md)!
 
 ### Community
 
-* [Forums](https://bitsharestalk.org) - The origins of BitShares since 2013
+* [Forums](https://bitsharestalk.org) - The original board of discussion for BitShares (ever since 2013)
 * [Steem#bitshares](https://steemit.com/trending/bitshares) - #bitshares tagged posts on the STEEM blockchain
+* [Whaleshares#bitshares](https://whaleshares.io/trending/bitshares) - #bitshares tagged posts on the WHALESHARES blockchain
 * [Twitter#bitshares](https://twitter.com/search?q=%23bitshares) - #bitshares tagged on Twitter
 * [Reddit#bitshares](https://reddit.com/r/bitshares) - Reddit sub
 * Telegram:
@@ -79,8 +80,9 @@ Want to contribute to the list? Read the [contributors guide](CONTRIBUTING.md)!
 
 ### Conferences
 
-* [Bitfest 2018](https://steemit.com/@bitfest) - in Amsterdam
-* [Graphene DevCon 2018](https://steemit.com/graphene/@jademont/global-graphene-blockchain-devcon-is-successfully-concluded) - in Shanghai
+* [Bitfest 2018](https://steemit.com/@bitfest) - in Amsterdam, Netherlands
+* [Decentralized 2018 - BitShares as Platinum Sponsor](https://www.decentralized.com/blog/2018/12/02/decentralized-2018-day-1-annemieke-dirkes-bitshares/) - In Athens, Greece
+* [Graphene DevCon 2018](https://steemit.com/graphene/@jademont/global-graphene-blockchain-devcon-is-successfully-concluded) - in Shanghai, China
 
 ## Utilities
 
@@ -97,8 +99,8 @@ wallet.bitshares.org.
 
 * [BTS++](http://btspp.io/) - native Android/iOS app
 * [Beet](https://github.com/bitshares/beet/) - standalone web application
-* [Reference Wallet](https://github.com/bitshares/bitshares-ui) - reference web wallet
-* [Trusty/Community UI](https://github.com/bitshares/bitshares-community-ui) - android app built on VueJS
+* [Reference Wallet](https://github.com/bitshares/bitshares-ui) - reference web wallet (ReactJS)
+* [Community UI](https://github.com/bitshares/bitshares-community-ui) - fully responsive community web wallet (VueJS)
 * [Uptick](http://uptick.rocks) - command line tool
 
 ### Hosted Wallets
@@ -123,8 +125,8 @@ research!
 
 #### Kibana
 
-* [bitshares-kibana.info](bitshares-kibana.info)
-* [kibana.bitshares.eu](kibana.bitshares.eu)
+* [bitshares-kibana.info](https://bitshares-kibana.info)
+* [kibana.bitshares.eu](https://kibana.bitshares.eu)
 
 ### Libraries
 #### C++ Libraries
@@ -134,6 +136,7 @@ research!
 #### JavaScript Libraries
 
 * [bitsharesjs](https://github.com/bitshares/bitsharesjs) - used by reference wallet
+* [btsdex](https://github.com/scientistnik/btsdex) - alternative javascript library
 * [vuex-bitshares](https://github.com/TrustyFund/vuex-bitshares) - used by Trusty/Community UI
 
 #### Python Libraries
@@ -150,24 +153,23 @@ do your own research!
 
 ### Decentralized Exchanges
 
-* [CryptoBridge](https://crypto-bridge.org/)
-* [EasyDEX](https://exchange.easydex.net/)
-* [SparkDEX](https://dex.bitspark.io/)
-* [Rudex](https://rudex.org/)
-* [GDEX](https://www.gdex.io/)
-* [OpenLedger](https://openledger.io/welcome)
-* [DEVX](https://deviantcoin.io/)
-* [Citadel](https://citadel.li/)
-* [Deex](https://www.deex.exchange/)
-* [EscoDex](https://www.escodex.com/)
-* [XBTS](https://xbts.io/)
-* [EUBX](https://eubx.io/)
-* [Winex](https://exchange.winex.pro/)
-* [HelloBTS](https://www.hellobts.com/)
 * [BTSabc](http://www.btsabc.org/)
+* [Citadel](https://citadel.li/)
+* [CryptoBridge](https://crypto-bridge.org/)
 * [Cryptocean](https://cryptocean.io/)
 * [Cryptrade](https://cryptrade.io/)
+* [Deex](https://www.deex.exchange/)
 * [DynX](https://www.dynx.io/)
+* [EUBX](https://eubx.io/)
+* [EasyDEX](https://exchange.easydex.net/)
+* [EscoDex](https://www.escodex.com/)
+* [GDEX](https://www.gdex.io/)
+* [HelloBTS](https://www.hellobts.com/)
+* [OpenLedger](https://openledger.io/welcome)
+* [Rudex](https://rudex.org/)
+* [SparkDEX](https://dex.bitspark.io/)
+* [Winex](https://exchange.winex.pro/)
+* [XBTS](https://xbts.io/)
 
 ### Services
 
@@ -175,7 +177,6 @@ do your own research!
 * [AppTrade](https://www.apptrade.io/)
 * [Bit20](http://www.bittwenty.com/)
 * [BitSpark](https://www.bitspark.io/)
-* [Bondon Blockchain](https://bondonblockchain.com/)
 * [PalmPay](https://PalmPay.io)
 * [Payger](https://payger.com/)
 * [Quintric](https://quintric.com/)
@@ -212,7 +213,6 @@ foundations:
 * [Dascoin](https://dascoin.com/)
 * [EOS](https://eos.io/)
 * [Golos](https://golos.io/)
-* [LBTC](http://lightningbitcoin.io/)
 * [OmniCoin](https://omnicoin.net/)
 * [Peerplays](https://www.peerplays.com/)
 * [SEER]()
